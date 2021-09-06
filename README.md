@@ -1,4 +1,4 @@
-# iOS Sliding Segmeneted Control
+# iOS Sliding Segmented Control
 
 Developement Stack 
 
